@@ -39,7 +39,6 @@ The game should create the high score file if it doesn't exist
 or gets deleted. If it gets corrupted, the structure should 
 look like this, between the dashes. Changing the 0s to any
 other number will make the game think that is your high score.
----------------------------------------
 [Score]
 easy_small = 0
 easy_medium = 0
@@ -51,7 +50,6 @@ hard_small = 0
 hard_medium = 0
 hard_large = 0
 endless_endless = 0
----------------------------------------
 
 CREDITS:
 ©2023 Lanecrest Tech
