@@ -39,7 +39,7 @@ by a very basic game I made on my TI-83+ using TI-BASIC back in
 
 The design goal is to keep the game on the more basic side by 
 only using default modules and only using the command line to 
-display. It will only run on Windows however due to some of the 
+display. It will only run on Windows however, due to some of the 
 default modules being used.
 
 HIGH SCORE FILE:
