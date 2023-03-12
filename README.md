@@ -6,7 +6,7 @@ Coin Thief v1.41
 CHANGELOG:
 ===
 1.41
-=
+==
 -Added more sound effects
 
 1.4
