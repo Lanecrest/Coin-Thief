@@ -74,7 +74,8 @@ endless_endless = 0
 
 CREDITS:
 ===
-Programmed by Lanecrest Tech
+Programmed by Lanecrest Tech.
+
 As this is a Python script you are free to view the source, 
 modify, and redistribute as you see fit. I just ask that if
 you had any fun, you give me some props :)
