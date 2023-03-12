@@ -1,5 +1,6 @@
 # Coin-Thief
-Python console game
+
+Coin Thief is a Python game that uses only default modules and runs on Windows. The object is to move around the playing area to collect coins and increase your score while avoiding the enemy.
 
 Version history and game information
 
