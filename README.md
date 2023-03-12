@@ -1,36 +1,34 @@
 # Coin-Thief
 
-Coin Thief is a Python game that uses only default modules and runs on Windows. The object is to move around the playing area to collect coins and increase your score while avoiding the enemy.
-
-Version history and game information
+Coin Thief is a Python game that uses only default modules but relies on Windows. The object is to move around the playing area to collect coins and increase your score while avoiding the enemy.
 
 CHANGELOG:
 ===
 1.41
-==
+---
 -Added more sound effects
 
 1.4
-==
+---
 -Changed scoring slightly for regular modes
 -Added Endless Mode
 
 1.3
-==
+---
 -Updated spawning logic to (hopefully) prevent softlocks
 -Allow settings to be changed between games
 
 1.2
-==
+---
 -Updated High Score file system
 -Updated level display code (no longer flashes)
 
 1.1
-==
+---
 -Added Sound
 
 1.0
-==
+---
 -Initial Release
 
 ABOUT:
@@ -76,7 +74,7 @@ endless_endless = 0
 
 CREDITS:
 ===
-©2023 Lanecrest Tech
+Programmed by Lanecrest Tech
 As this is a Python script you are free to view the source, 
 modify, and redistribute as you see fit. I just ask that if
 you had any fun, you give me some props :)
