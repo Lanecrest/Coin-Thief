@@ -1,7 +1,7 @@
 # Coin-Thief
 Python console game
 
-Coin Thief v1.41
+Version history and game information
 
 CHANGELOG:
 ===
