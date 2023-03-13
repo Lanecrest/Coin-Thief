@@ -1,4 +1,6 @@
-# CHANGELOG
+# Coin-Thief
+
+Coin Thief is a Python game that uses only default modules but relies on Windows. The object is to move around a procedurally generated playing area to collect coins and increase your score while avoiding the enemy.
 
 ===
 1.41
