@@ -2,35 +2,24 @@
 
 Coin Thief is a Python game that uses only default modules but relies on Windows. The object is to move around a procedurally generated playing area to collect coins and increase your score while avoiding the enemy.
 
+About
 ===
-1.41
----
--Added more sound effects
+This is my first attempt making a game in Python. It is inspired 
+by a very basic game I made on my TI-83+ using TI-BASIC back in
+2001. It is the realized version of a project started long ago!
 
-1.4
----
--Changed scoring slightly for regular modes
--Added Endless Mode
+The design goal is to keep the game on the more basic side by 
+only using default modules and only using the command line to 
+display. It will only run on Windows however, due to some of the 
+default modules being used.
 
-1.3
----
--Updated spawning logic to (hopefully) prevent softlocks
--Allow settings to be changed between games
+Screenshots
+===
+![Alt text](/screenshots/v1_41_title.png?raw=true "Title Screen")
+![Alt text](/screenshots/v1_41_settings.png?raw=true "Settings Screen")
+![Alt text](/screenshots/v1_41_gameplay.png?raw=true "Gameplay")
 
-1.2
----
--Updated High Score file system
--Updated level display code (no longer flashes)
-
-1.1
----
--Added Sound
-
-1.0
----
--Initial Release
-
-HIGH SCORE FILE:
+High Score File
 ===
 The game should create the high score file if it doesn't exist 
 or gets deleted. If it gets corrupted, the structure should 
@@ -61,14 +50,3 @@ hard_large = 0
 endless_endless = 0
 
 -----
-
-ABOUT:
-===
-This is my first attempt making a game in Python. It is inspired 
-by a very basic game I made on my TI-83+ using TI-BASIC back in
-2001. It is the realized version of a project started long ago :)
-
-The design goal is to keep the game on the more basic side by 
-only using default modules and only using the command line to 
-display. It will only run on Windows however, due to some of the 
-default modules being used.
