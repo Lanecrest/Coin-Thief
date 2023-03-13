@@ -50,3 +50,7 @@ hard_large = 0
 endless_endless = 0
 
 -----
+
+Credits
+===
+Programmed by Lanecrest Tech
