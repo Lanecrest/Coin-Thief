@@ -1,7 +1,4 @@
-# Coin-Thief
-
-Change Log
-===
+# Change Log
 
 1.41
 ---
