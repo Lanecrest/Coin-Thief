@@ -33,6 +33,14 @@ demonstrate the file that is generated, I have included a default
 version. The values start at 0 and each setting is tracked separately. 
 As you gain new high scores for each setting, the .ini will be updated. 
 
+Road Map
+===
+This game is effectively finished. However, as it was my first "major" 
+Python project, the code can be quite messy in places :) In the future 
+I would like to clean up parts of the code to make it more optimized 
+and at that point I will publish it as a 2.0 final, with a very small 
+possibility of little features or bugfixes here or there.
+
 Credits
 ===
 Programmed by Lanecrest Tech
