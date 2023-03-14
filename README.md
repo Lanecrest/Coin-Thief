@@ -2,7 +2,8 @@
 
 Coin Thief is a Python game that uses only default modules but relies on Windows. The object is to move around a procedurally generated playing area to collect coins and increase your score while avoiding the enemy.
 
-[View Changelog](changelog.md)
+[Change Log](changelog.md)
+=
 
 About
 ===
@@ -17,19 +18,20 @@ default modules being used.
 
 Screenshots
 ===
-![Alt text](/screenshots/v1_41_title.png?raw=true "Title Screen")
-![Alt text](/screenshots/v1_41_settings.png?raw=true "Settings Screen")
+[Screenshots](/screenshots)
+
 ![Alt text](/screenshots/v1_41_gameplay.png?raw=true "Gameplay")
 
 High Score File
 ===
+[high_score.ini](high_score.ini)
+
 The game will automatically create the high_score.ini file in the same 
 directory if it does not already exist so there should be no need to 
 download/copy the file included in the repository. However, just to 
-demonstrate the file that is generated, I have included an default 
-copy. The values start at 0 and each setting is tracked separately. As 
-you gain new high scores for eachsetting, the .ini will be updated. 
-You can view the default file [here](high_score.ini).
+demonstrate the file that is generated, I have included a default 
+version. The values start at 0 and each setting is tracked separately. 
+As you gain new high scores for each setting, the .ini will be updated. 
 
 Credits
 ===
