@@ -23,6 +23,6 @@
 -
 -Added Sound
 
-1.0
+1.0 (February 2023)
 -
 -Initial Release
