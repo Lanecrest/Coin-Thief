@@ -22,6 +22,12 @@ Screenshots
 
 ![Alt text](/screenshots/v1_41_gameplay.png?raw=true "Gameplay")
 
+Requirements
+=
+There are no non-default modules with a typical Python installation 
+Windows used, which is one of the design goals. However, that means 
+the game will only run correctly on Windows.
+
 High Score File
 =
 [high_score.ini](high_score.ini)
