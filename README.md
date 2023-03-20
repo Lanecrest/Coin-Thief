@@ -2,7 +2,7 @@
 
 Coin Thief is a Python game that uses only default modules and runs entirely in the console. Due to several of the modules used, it will only run in Windows. The object is to move around a procedurally generated playing area to collect coins and increase your score while avoiding the enemy.
 
-[Change Log](changelog.md)
+[Change Log](CHANGELOG.md)
 =
 
 About
@@ -24,9 +24,9 @@ Screenshots
 
 Requirements
 =
-There are no non-default modules with a typical Python installation 
-Windows used, which is one of the design goals. However, that means 
-the game will only run correctly on Windows.
+There are no non-default modules used that don't come with a typical 
+Python installation on Windows, which is one of the design goals. 
+However, that means the game will only run correctly on Windows.
 
 High Score File
 =
