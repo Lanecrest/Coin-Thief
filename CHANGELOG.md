@@ -1,14 +1,14 @@
 # Change Log
 
-0.2.1
+0.2.1 (04-01-23)
 -
 -Added MIT License
 
 -Updated Change Log to reflect 3 digit version numbering
 
-0.2.0
+0.2.0 (03-29-23)
 -
--Changed some of the code to make things a little more optimized
+-Changed some of the code to make things a little more optimized for upcoming larger changes
 
 0.1.5
 -
