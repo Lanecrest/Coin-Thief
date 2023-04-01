@@ -10,8 +10,11 @@ by a very basic game I made on my TI-83+ using TI-BASIC back in
 
 The design goal is to keep the game on the more basic side by 
 only using default modules and only using the command line to 
-display. It will only run on Windows however, due to some of the 
-default modules being used.
+display.
+
+The game overwent a code overhaul in April 2023 with new features 
+added for consideration in the Devpost [Pygames](https://pygames.devpost.com/) 
+contest.
 
 [Screenshots](/screenshots)
 =
@@ -46,4 +49,6 @@ submission for the Pygames.
 
 Credits
 =
-Programmed by Lanecrest Tech
+Lanecrest Tech © 2023
+
+This program is free software released under the MIT License and is submitted as a Devpost Pygames entry in acccordance with their [rules](https://pygames.devpost.com/rules).
