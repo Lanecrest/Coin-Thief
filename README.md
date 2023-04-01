@@ -38,7 +38,7 @@ will be updated.
 
 Road Map
 =
-This game was originally developed in January 2023 as a training 
+This game was originally developed in February 2023 as a training 
 exercise to develop Python programming skills. A major revision and 
 refinement was initiated in April 2023 to be submitted for a Pygames 
 contest. There are no plans to develop the game further past its 
