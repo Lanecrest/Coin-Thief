@@ -9,8 +9,8 @@ by a very basic game I made on my TI-83+ using TI-BASIC back in
 2001. It is the realized version of a project started long ago!
 
 The design goal is to keep the game on the more basic side by 
-only using default modules and only using the command line to 
-display.
+only using default modules and only using the console to 
+display and keyboard for inputs.
 
 The game overwent a code overhaul in April 2023 with new features 
 added for consideration in the Devpost [Pygames](https://pygames.devpost.com/) 
