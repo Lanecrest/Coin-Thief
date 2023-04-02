@@ -4,7 +4,7 @@ Coin Thief is a Python game that uses only default modules and runs entirely in 
 
 About
 =
-This is my first attempt making a game in Python. It is inspired 
+This is my first attempt at making a game in Python. It is inspired 
 by a very basic game I made on my TI-83+ using TI-BASIC back in
 2001. It is the realized version of a project started long ago!
 
