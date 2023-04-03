@@ -12,10 +12,6 @@ The design goal is to keep the game on the more basic side by
 only using default modules and only using the console to 
 display and keyboard for inputs.
 
-The game overwent a code overhaul in April 2023 with new features 
-added for consideration in the Devpost [Pygames](https://pygames.devpost.com/) 
-contest.
-
 [Screenshots](/screenshots)
 =
 ![Alt text](/screenshots/v1_41_gameplay.png?raw=true "Gameplay")
@@ -41,14 +37,14 @@ will be updated.
 
 Road Map
 =
-This game was originally developed in February 2023 as a training 
-exercise to develop Python programming skills. A major revision and 
-refinement was initiated in April 2023 to be submitted for a Pygames 
-contest. There are no plans to develop the game further past its 
-submission for the Pygames.
+This game is functional as is with cohesive gameplay, but as my first 
+attempt at a more complex project, the code is sloppy in place and 
+uses what I know now are some bad habits. In the future I would like 
+to recode some parts but this would effectively be all back-end and 
+add no real new functionality to the game.
 
 Credits
 =
 Lanecrest Tech © 2023
 
-This program is free software released under the MIT License and is submitted as a Devpost Pygames entry in acccordance with their [rules](https://pygames.devpost.com/rules).
+This program is free software released under the MIT License.
