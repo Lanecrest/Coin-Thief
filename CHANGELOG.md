@@ -1,7 +1,7 @@
 # Change Log
 
 ## 0.2.1 (04-01-23)
--Added BSD-2 License
+-Added MIT License
 
 -Updated Change Log to reflect 3 digit version numbering
 
